@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/goblindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabijonov_abdulaziz" height="30" width="40" /></a>
 <a href="https://fb.com/abdulaziz.nabijonov.752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nabijonov_abdulazizuz" height="30" width="40" /></a>
 <a href="https://instagram.com/BatchatPro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabijonov_abdulaziz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/abdulaziznabijonov5593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nabijonov_abdulaziz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@abdulaziznabijonov5593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nabijonov_abdulaziz" height="30" width="40" /></a>
 </p>
 
 
